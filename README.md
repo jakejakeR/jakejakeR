@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jakub Rogowski
 - 👀 I’m interested in mechanical engineering
 - 🌱 I’m currently learning Java
-- 📫 jakerogowski33@gmail.com
+- 📫 jakubrogowski@ocloud.com
 
 <!---
 jakejakeR/jakejakeR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
